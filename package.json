@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "color": "^4.1.0",
+    "if": "^2.0.0",
+    "parseint": "^1.0.1",
+    "prompt": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyaStankevich/NodeJSProject.git"
+  },
+  "author": "tanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanyaStankevich/NodeJSProject/issues"
+  },
+  "homepage": "https://github.com/tanyaStankevich/NodeJSProject#readme"
+}
