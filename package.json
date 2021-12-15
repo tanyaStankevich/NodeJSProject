@@ -6,6 +6,7 @@
   "dependencies": {
     "color": "^4.1.0",
     "if": "^2.0.0",
+    "moment": "^2.29.1",
     "parseint": "^1.0.1",
     "prompt": "^1.2.0"
   },
